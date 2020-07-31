@@ -1,0 +1,30 @@
+2020-04-15 18:17:57 [main] INFO  c.atom.springboot.logger.Application - Starting Application on LAPTOP-KFIKPE1S with PID 18628 (D:\WorkSpace\SpringBootApp-Practice\15.PeopleManagementSpringBootLogger\target\classes started by Prince in D:\WorkSpace\SpringBootApp-Practice\15.PeopleManagementSpringBootLogger)
+2020-04-15 18:17:57 [main] INFO  c.atom.springboot.logger.Application - No active profile set, falling back to default profiles: default
+2020-04-15 18:17:59 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-04-15 18:17:59 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2020-04-15 18:17:59 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-15 18:17:59 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-04-15 18:17:59 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1383 ms
+2020-04-15 18:17:59 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-15 18:17:59 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-15 18:17:59 [main] INFO  c.atom.springboot.logger.Application - Started Application in 2.245 seconds (JVM running for 3.047)
+2020-04-15 18:17:59 [main] INFO  c.atom.springboot.logger.Application - messsage info getting printed
+2020-04-15 18:17:59 [main] ERROR c.atom.springboot.logger.Application - messsage error getting printed
+2020-04-15 18:17:59 [main] WARN  c.atom.springboot.logger.Application - messsage warn getting printed
+2020-04-15 18:18:15 [RMI TCP Connection(8)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2020-04-15 18:18:15 [RMI TCP Connection(8)-127.0.0.1] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-15 18:18:21 [main] INFO  c.atom.springboot.logger.Application - Starting Application on LAPTOP-KFIKPE1S with PID 10500 (D:\WorkSpace\SpringBootApp-Practice\15.PeopleManagementSpringBootLogger\target\classes started by Prince in D:\WorkSpace\SpringBootApp-Practice\15.PeopleManagementSpringBootLogger)
+2020-04-15 18:18:21 [main] INFO  c.atom.springboot.logger.Application - No active profile set, falling back to default profiles: default
+2020-04-15 18:18:22 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-04-15 18:18:22 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2020-04-15 18:18:22 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-15 18:18:22 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-04-15 18:18:22 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1087 ms
+2020-04-15 18:18:22 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-15 18:18:22 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-15 18:18:22 [main] INFO  c.atom.springboot.logger.Application - Started Application in 1.863 seconds (JVM running for 2.794)
+2020-04-15 18:18:22 [main] INFO  c.atom.springboot.logger.Application - messsage info getting printed
+2020-04-15 18:18:22 [main] ERROR c.atom.springboot.logger.Application - messsage error getting printed
+2020-04-15 18:18:22 [main] WARN  c.atom.springboot.logger.Application - messsage warn getting printed
+2020-04-15 19:25:10 [RMI TCP Connection(77)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2020-04-15 19:25:10 [RMI TCP Connection(77)-127.0.0.1] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'

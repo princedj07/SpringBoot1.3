@@ -1,0 +1,17 @@
+2020-04-15 19:38:22 [main] INFO  c.atom.springboot.logger.Application - Starting Application on LAPTOP-KFIKPE1S with PID 17744 (D:\WorkSpace\SpringBootApp-Practice\16.PeopleManagementSpringBootLoggerWithLogback\target\classes started by Prince in D:\WorkSpace\SpringBootApp-Practice\16.PeopleManagementSpringBootLoggerWithLogback)
+2020-04-15 19:38:22 [main] DEBUG c.atom.springboot.logger.Application - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-04-15 19:38:22 [main] INFO  c.atom.springboot.logger.Application - No active profile set, falling back to default profiles: default
+2020-04-15 19:38:24 [main] INFO  c.atom.springboot.logger.Application - Started Application in 2.156 seconds (JVM running for 3.294)
+2020-04-15 19:38:24 [main] INFO  c.atom.springboot.logger.Application - messsage info getting printed
+2020-04-15 19:38:24 [main] ERROR c.atom.springboot.logger.Application - messsage error getting printed
+2020-04-15 19:38:24 [main] DEBUG c.atom.springboot.logger.Application - messsage debug getting printed
+2020-04-15 19:38:24 [main] WARN  c.atom.springboot.logger.Application - messsage warn getting printed
+2020-04-15 19:38:55 [http-nio-8080-exec-1] INFO  c.atom.springboot.logger.Application - Inside hello method
+2020-04-15 22:09:29 [main] INFO  c.atom.springboot.logger.Application - Starting Application on LAPTOP-KFIKPE1S with PID 24044 (D:\WorkSpace\SpringBootApp-Practice\16.PeopleManagementSpringBootLoggerWithLogback\target\classes started by Prince in D:\WorkSpace\SpringBootApp-Practice\16.PeopleManagementSpringBootLoggerWithLogback)
+2020-04-15 22:09:29 [main] DEBUG c.atom.springboot.logger.Application - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-04-15 22:09:29 [main] INFO  c.atom.springboot.logger.Application - No active profile set, falling back to default profiles: default
+2020-04-15 22:09:30 [main] INFO  c.atom.springboot.logger.Application - Started Application in 1.048 seconds (JVM running for 1.538)
+2020-04-15 22:09:30 [main] INFO  c.atom.springboot.logger.Application - messsage info getting printed
+2020-04-15 22:09:30 [main] ERROR c.atom.springboot.logger.Application - messsage error getting printed
+2020-04-15 22:09:30 [main] DEBUG c.atom.springboot.logger.Application - messsage debug getting printed
+2020-04-15 22:09:30 [main] WARN  c.atom.springboot.logger.Application - messsage warn getting printed
